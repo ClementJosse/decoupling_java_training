@@ -1,7 +1,7 @@
 package fr.lernejo.guessgame;
-
+import java.util.Date;
 import fr.lernejo.logger.*;
-
+import java.text.SimpleDateFormat;
 
 public class Simulation {
 
@@ -40,8 +40,12 @@ public class Simulation {
 
     public void loopUntilPlayerSucceed() {
         //TODO implement me
+        long startTime=System.currentTimeMillis();
         while(!nextRound()){
 
         }
+        Date date = new Date(System.currentTimeMillis()-startTime);
+        String originalFormat = new SimpleDateFormat("mm:ss.SSS").format(date);
+        logger.log(originalFormat);
     }
 }
