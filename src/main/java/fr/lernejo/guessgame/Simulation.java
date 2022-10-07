@@ -19,7 +19,6 @@ public class Simulation {
         //TODO implement me
 
         this.numberToGuess = numberToGuess;
-        System.out.println(numberToGuess);
     }
 
     /**
@@ -44,7 +43,7 @@ public class Simulation {
         //TODO implement me
         long startTime=System.currentTimeMillis();
         int i =0;
-        while(!nextRound()||i<maxIteration){
+        while(!nextRound()&&i<maxIteration){
             i++;
         }
         Date date = new Date(System.currentTimeMillis()-startTime);

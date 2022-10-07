@@ -13,6 +13,7 @@ public class ComputerPlayer implements Player{
 
     @Override
     public long askNextGuess() {
+        logger.log(String.valueOf((this.min+this.max)/2));
         return (this.min+this.max)/2;
     }
 
