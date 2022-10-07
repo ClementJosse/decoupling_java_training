@@ -1,6 +1,7 @@
 package fr.lernejo.guessgame;
 import java.util.Date;
 import fr.lernejo.logger.*;
+
 import java.text.SimpleDateFormat;
 
 public class Simulation {
@@ -16,8 +17,9 @@ public class Simulation {
 
     public void initialize(long numberToGuess) {
         //TODO implement me
+
         this.numberToGuess = numberToGuess;
-        loopUntilPlayerSucceed();
+        System.out.println(numberToGuess);
     }
 
     /**
@@ -38,14 +40,18 @@ public class Simulation {
 
     }
 
-    public void loopUntilPlayerSucceed() {
+    public void loopUntilPlayerSucceed(long maxIteration) {
         //TODO implement me
         long startTime=System.currentTimeMillis();
-        while(!nextRound()){
-
+        int i =0;
+        while(!nextRound()||i<maxIteration){
+            i++;
         }
         Date date = new Date(System.currentTimeMillis()-startTime);
         String originalFormat = new SimpleDateFormat("mm:ss.SSS").format(date);
+        if(i==maxIteration){
+            logger.log("You did not found the number");
+        }
         logger.log(originalFormat);
     }
 }
