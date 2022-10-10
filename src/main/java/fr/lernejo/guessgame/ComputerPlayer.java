@@ -20,11 +20,11 @@ public class ComputerPlayer implements Player{
     @Override
     public void respond(boolean lowerOrGreater) {
         if(lowerOrGreater){
-            logger.log("lower");
+            //logger.log("lower");
             this.max=(this.min+this.max)/2;
         }
         else {
-            logger.log("greater");
+            //logger.log("greater");
             this.min=(this.min+this.max)/2;
         }
     }
