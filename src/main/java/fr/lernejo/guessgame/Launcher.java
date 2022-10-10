@@ -14,7 +14,7 @@ public class Launcher {
             simulation.initialize(randomNumber);
             simulation.loopUntilPlayerSucceed(Long.MAX_VALUE);
         }
-        if(args[0].equals("-auto")){
+        else if(args[0].equals("-auto")){
             ComputerPlayer computerPlayer = new ComputerPlayer();
             Simulation simulation=new Simulation(computerPlayer);
             simulation.initialize(Long.parseLong(args[1]));
