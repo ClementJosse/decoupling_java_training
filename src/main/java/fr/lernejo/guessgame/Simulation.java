@@ -46,8 +46,7 @@ public class Simulation {
         while(!nextRound()&&i<maxIteration){
             i++;
         }
-        Date date = new Date(System.currentTimeMillis()-startTime);
-        String originalFormat = new SimpleDateFormat("mm:ss.SSS").format(date);
+        String originalFormat = new SimpleDateFormat("mm:ss.SSS").format(System.currentTimeMillis()-startTime);
         if(i==maxIteration){
             logger.log("You did not found the number");
         }

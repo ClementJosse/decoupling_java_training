@@ -320,3 +320,389 @@
 2022-10-10 09:52:58.552 ComputerPlayer 100000
 2022-10-10 09:52:58.553 simulation You found the number
 2022-10-10 09:52:58.594 simulation 00:00.141
+2022-10-10 10:02:45.589 simulation Guess number ?
+2022-10-10 10:02:45.606 ComputerPlayer 0
+2022-10-10 10:02:45.606 ComputerPlayer greater
+2022-10-10 10:02:45.608 simulation Guess number ?
+2022-10-10 10:02:45.608 ComputerPlayer 4611686018427387903
+2022-10-10 10:02:45.608 ComputerPlayer lower
+2022-10-10 10:02:45.609 simulation Guess number ?
+2022-10-10 10:02:45.609 ComputerPlayer 2305843009213693951
+2022-10-10 10:02:45.610 ComputerPlayer lower
+2022-10-10 10:02:45.611 simulation Guess number ?
+2022-10-10 10:02:45.612 ComputerPlayer 1152921504606846975
+2022-10-10 10:02:45.612 ComputerPlayer lower
+2022-10-10 10:02:45.613 simulation Guess number ?
+2022-10-10 10:02:45.615 ComputerPlayer 576460752303423487
+2022-10-10 10:02:45.615 ComputerPlayer lower
+2022-10-10 10:02:45.616 simulation Guess number ?
+2022-10-10 10:02:45.617 ComputerPlayer 288230376151711743
+2022-10-10 10:02:45.617 ComputerPlayer lower
+2022-10-10 10:02:45.618 simulation Guess number ?
+2022-10-10 10:02:45.619 ComputerPlayer 144115188075855871
+2022-10-10 10:02:45.619 ComputerPlayer lower
+2022-10-10 10:02:45.620 simulation Guess number ?
+2022-10-10 10:02:45.621 ComputerPlayer 72057594037927935
+2022-10-10 10:02:45.621 ComputerPlayer lower
+2022-10-10 10:02:45.622 simulation Guess number ?
+2022-10-10 10:02:45.623 ComputerPlayer 36028797018963967
+2022-10-10 10:02:45.623 ComputerPlayer lower
+2022-10-10 10:02:45.624 simulation Guess number ?
+2022-10-10 10:02:45.625 ComputerPlayer 18014398509481983
+2022-10-10 10:02:45.626 ComputerPlayer lower
+2022-10-10 10:02:45.626 simulation Guess number ?
+2022-10-10 10:02:45.627 ComputerPlayer 9007199254740991
+2022-10-10 10:02:45.628 ComputerPlayer lower
+2022-10-10 10:02:45.628 simulation Guess number ?
+2022-10-10 10:02:45.629 ComputerPlayer 4503599627370495
+2022-10-10 10:02:45.630 ComputerPlayer lower
+2022-10-10 10:02:45.630 simulation Guess number ?
+2022-10-10 10:02:45.631 ComputerPlayer 2251799813685247
+2022-10-10 10:02:45.632 ComputerPlayer lower
+2022-10-10 10:02:45.632 simulation Guess number ?
+2022-10-10 10:02:45.633 ComputerPlayer 1125899906842623
+2022-10-10 10:02:45.634 ComputerPlayer lower
+2022-10-10 10:02:45.635 simulation Guess number ?
+2022-10-10 10:02:45.635 ComputerPlayer 562949953421311
+2022-10-10 10:02:45.636 ComputerPlayer lower
+2022-10-10 10:02:45.637 simulation Guess number ?
+2022-10-10 10:02:45.637 ComputerPlayer 281474976710655
+2022-10-10 10:02:45.638 ComputerPlayer lower
+2022-10-10 10:02:45.639 simulation Guess number ?
+2022-10-10 10:02:45.640 ComputerPlayer 140737488355327
+2022-10-10 10:02:45.640 ComputerPlayer lower
+2022-10-10 10:02:45.641 simulation Guess number ?
+2022-10-10 10:02:45.642 ComputerPlayer 70368744177663
+2022-10-10 10:02:45.642 ComputerPlayer lower
+2022-10-10 10:02:45.642 simulation Guess number ?
+2022-10-10 10:02:45.643 ComputerPlayer 35184372088831
+2022-10-10 10:02:45.643 ComputerPlayer lower
+2022-10-10 10:02:45.644 simulation Guess number ?
+2022-10-10 10:02:45.644 ComputerPlayer 17592186044415
+2022-10-10 10:02:45.645 ComputerPlayer lower
+2022-10-10 10:02:45.645 simulation Guess number ?
+2022-10-10 10:02:45.646 ComputerPlayer 8796093022207
+2022-10-10 10:02:45.647 ComputerPlayer lower
+2022-10-10 10:02:45.648 simulation Guess number ?
+2022-10-10 10:02:45.649 ComputerPlayer 4398046511103
+2022-10-10 10:02:45.650 ComputerPlayer lower
+2022-10-10 10:02:45.650 simulation Guess number ?
+2022-10-10 10:02:45.651 ComputerPlayer 2199023255551
+2022-10-10 10:02:45.652 ComputerPlayer lower
+2022-10-10 10:02:45.652 simulation Guess number ?
+2022-10-10 10:02:45.653 ComputerPlayer 1099511627775
+2022-10-10 10:02:45.654 ComputerPlayer lower
+2022-10-10 10:02:45.654 simulation Guess number ?
+2022-10-10 10:02:45.655 ComputerPlayer 549755813887
+2022-10-10 10:02:45.656 ComputerPlayer lower
+2022-10-10 10:02:45.656 simulation Guess number ?
+2022-10-10 10:02:45.657 ComputerPlayer 274877906943
+2022-10-10 10:02:45.659 ComputerPlayer lower
+2022-10-10 10:02:45.659 simulation Guess number ?
+2022-10-10 10:02:45.660 ComputerPlayer 137438953471
+2022-10-10 10:02:45.660 ComputerPlayer lower
+2022-10-10 10:02:45.661 simulation Guess number ?
+2022-10-10 10:02:45.661 ComputerPlayer 68719476735
+2022-10-10 10:02:45.662 ComputerPlayer lower
+2022-10-10 10:02:45.662 simulation Guess number ?
+2022-10-10 10:02:45.662 ComputerPlayer 34359738367
+2022-10-10 10:02:45.663 ComputerPlayer lower
+2022-10-10 10:02:45.663 simulation Guess number ?
+2022-10-10 10:02:45.664 ComputerPlayer 17179869183
+2022-10-10 10:02:45.664 ComputerPlayer lower
+2022-10-10 10:02:45.666 simulation Guess number ?
+2022-10-10 10:02:45.666 ComputerPlayer 8589934591
+2022-10-10 10:02:45.666 ComputerPlayer lower
+2022-10-10 10:02:45.668 simulation Guess number ?
+2022-10-10 10:02:45.668 ComputerPlayer 4294967295
+2022-10-10 10:02:45.668 ComputerPlayer lower
+2022-10-10 10:02:45.669 simulation Guess number ?
+2022-10-10 10:02:45.670 ComputerPlayer 2147483647
+2022-10-10 10:02:45.670 ComputerPlayer lower
+2022-10-10 10:02:45.671 simulation Guess number ?
+2022-10-10 10:02:45.672 ComputerPlayer 1073741823
+2022-10-10 10:02:45.672 ComputerPlayer lower
+2022-10-10 10:02:45.673 simulation Guess number ?
+2022-10-10 10:02:45.674 ComputerPlayer 536870911
+2022-10-10 10:02:45.674 ComputerPlayer lower
+2022-10-10 10:02:45.675 simulation Guess number ?
+2022-10-10 10:02:45.675 ComputerPlayer 268435455
+2022-10-10 10:02:45.677 ComputerPlayer lower
+2022-10-10 10:02:45.677 simulation Guess number ?
+2022-10-10 10:02:45.677 ComputerPlayer 134217727
+2022-10-10 10:02:45.678 ComputerPlayer lower
+2022-10-10 10:02:45.678 simulation Guess number ?
+2022-10-10 10:02:45.679 ComputerPlayer 67108863
+2022-10-10 10:02:45.680 ComputerPlayer lower
+2022-10-10 10:02:45.680 simulation Guess number ?
+2022-10-10 10:02:45.681 ComputerPlayer 33554431
+2022-10-10 10:02:45.682 ComputerPlayer lower
+2022-10-10 10:02:45.682 simulation Guess number ?
+2022-10-10 10:02:45.683 ComputerPlayer 16777215
+2022-10-10 10:02:45.684 ComputerPlayer lower
+2022-10-10 10:02:45.685 simulation Guess number ?
+2022-10-10 10:02:45.687 ComputerPlayer 8388607
+2022-10-10 10:02:45.687 ComputerPlayer lower
+2022-10-10 10:02:45.687 simulation Guess number ?
+2022-10-10 10:02:45.688 ComputerPlayer 4194303
+2022-10-10 10:02:45.690 ComputerPlayer lower
+2022-10-10 10:02:45.690 simulation Guess number ?
+2022-10-10 10:02:45.691 ComputerPlayer 2097151
+2022-10-10 10:02:45.692 ComputerPlayer lower
+2022-10-10 10:02:45.692 simulation Guess number ?
+2022-10-10 10:02:45.694 ComputerPlayer 1048575
+2022-10-10 10:02:45.695 ComputerPlayer lower
+2022-10-10 10:02:45.695 simulation Guess number ?
+2022-10-10 10:02:45.696 ComputerPlayer 524287
+2022-10-10 10:02:45.696 ComputerPlayer lower
+2022-10-10 10:02:45.698 simulation Guess number ?
+2022-10-10 10:02:45.698 ComputerPlayer 262143
+2022-10-10 10:02:45.699 ComputerPlayer lower
+2022-10-10 10:02:45.699 simulation Guess number ?
+2022-10-10 10:02:45.700 ComputerPlayer 131071
+2022-10-10 10:02:45.702 ComputerPlayer lower
+2022-10-10 10:02:45.702 simulation Guess number ?
+2022-10-10 10:02:45.703 ComputerPlayer 65535
+2022-10-10 10:02:45.703 ComputerPlayer greater
+2022-10-10 10:02:45.704 simulation Guess number ?
+2022-10-10 10:02:45.705 ComputerPlayer 98303
+2022-10-10 10:02:45.705 ComputerPlayer greater
+2022-10-10 10:02:45.706 simulation Guess number ?
+2022-10-10 10:02:45.707 ComputerPlayer 114687
+2022-10-10 10:02:45.707 ComputerPlayer lower
+2022-10-10 10:02:45.708 simulation Guess number ?
+2022-10-10 10:02:45.708 ComputerPlayer 106495
+2022-10-10 10:02:45.709 ComputerPlayer lower
+2022-10-10 10:02:45.709 simulation Guess number ?
+2022-10-10 10:02:45.710 ComputerPlayer 102399
+2022-10-10 10:02:45.711 ComputerPlayer lower
+2022-10-10 10:02:45.711 simulation Guess number ?
+2022-10-10 10:02:45.712 ComputerPlayer 100351
+2022-10-10 10:02:45.713 ComputerPlayer lower
+2022-10-10 10:02:45.713 simulation Guess number ?
+2022-10-10 10:02:45.714 ComputerPlayer 99327
+2022-10-10 10:02:45.715 ComputerPlayer greater
+2022-10-10 10:02:45.715 simulation Guess number ?
+2022-10-10 10:02:45.716 ComputerPlayer 99839
+2022-10-10 10:02:45.717 ComputerPlayer greater
+2022-10-10 10:02:45.718 simulation Guess number ?
+2022-10-10 10:02:45.719 ComputerPlayer 100095
+2022-10-10 10:02:45.719 ComputerPlayer lower
+2022-10-10 10:02:45.720 simulation Guess number ?
+2022-10-10 10:02:45.721 ComputerPlayer 99967
+2022-10-10 10:02:45.721 ComputerPlayer greater
+2022-10-10 10:02:45.722 simulation Guess number ?
+2022-10-10 10:02:45.722 ComputerPlayer 100031
+2022-10-10 10:02:45.723 ComputerPlayer lower
+2022-10-10 10:02:45.724 simulation Guess number ?
+2022-10-10 10:02:45.724 ComputerPlayer 99999
+2022-10-10 10:02:45.725 ComputerPlayer greater
+2022-10-10 10:02:45.726 simulation Guess number ?
+2022-10-10 10:02:45.726 ComputerPlayer 100015
+2022-10-10 10:02:45.727 ComputerPlayer lower
+2022-10-10 10:02:45.727 simulation Guess number ?
+2022-10-10 10:02:45.727 ComputerPlayer 100007
+2022-10-10 10:02:45.728 ComputerPlayer lower
+2022-10-10 10:02:45.728 simulation Guess number ?
+2022-10-10 10:02:45.729 ComputerPlayer 100003
+2022-10-10 10:02:45.729 ComputerPlayer lower
+2022-10-10 10:02:45.730 simulation Guess number ?
+2022-10-10 10:02:45.731 ComputerPlayer 100001
+2022-10-10 10:02:45.732 ComputerPlayer lower
+2022-10-10 10:02:45.732 simulation Guess number ?
+2022-10-10 10:02:45.733 ComputerPlayer 100000
+2022-10-10 10:02:45.734 simulation You found the number
+2022-10-10 10:02:45.767 simulation 00:00.194
+2022-10-10 10:14:36.958 simulation Guess number ?
+2022-10-10 10:14:36.962 ComputerPlayer 0
+2022-10-10 10:14:36.962 ComputerPlayer greater
+2022-10-10 10:14:36.963 simulation Guess number ?
+2022-10-10 10:14:36.964 ComputerPlayer 4611686018427387903
+2022-10-10 10:14:36.965 ComputerPlayer lower
+2022-10-10 10:14:36.965 simulation Guess number ?
+2022-10-10 10:14:36.966 ComputerPlayer 2305843009213693951
+2022-10-10 10:14:36.967 ComputerPlayer lower
+2022-10-10 10:14:36.968 simulation Guess number ?
+2022-10-10 10:14:36.968 ComputerPlayer 1152921504606846975
+2022-10-10 10:14:36.969 ComputerPlayer lower
+2022-10-10 10:14:36.970 simulation Guess number ?
+2022-10-10 10:14:36.971 ComputerPlayer 576460752303423487
+2022-10-10 10:14:36.971 ComputerPlayer lower
+2022-10-10 10:14:36.972 simulation Guess number ?
+2022-10-10 10:14:36.973 ComputerPlayer 288230376151711743
+2022-10-10 10:14:36.974 ComputerPlayer lower
+2022-10-10 10:14:36.975 simulation Guess number ?
+2022-10-10 10:14:36.976 ComputerPlayer 144115188075855871
+2022-10-10 10:14:36.977 ComputerPlayer lower
+2022-10-10 10:14:36.978 simulation Guess number ?
+2022-10-10 10:14:36.978 ComputerPlayer 72057594037927935
+2022-10-10 10:14:36.979 ComputerPlayer lower
+2022-10-10 10:14:36.980 simulation Guess number ?
+2022-10-10 10:14:36.981 ComputerPlayer 36028797018963967
+2022-10-10 10:14:36.982 ComputerPlayer lower
+2022-10-10 10:14:36.983 simulation Guess number ?
+2022-10-10 10:14:36.984 ComputerPlayer 18014398509481983
+2022-10-10 10:14:36.984 ComputerPlayer lower
+2022-10-10 10:14:36.986 simulation Guess number ?
+2022-10-10 10:14:36.986 ComputerPlayer 9007199254740991
+2022-10-10 10:14:36.987 ComputerPlayer lower
+2022-10-10 10:14:36.988 simulation Guess number ?
+2022-10-10 10:14:36.988 ComputerPlayer 4503599627370495
+2022-10-10 10:14:36.989 ComputerPlayer lower
+2022-10-10 10:14:36.989 simulation Guess number ?
+2022-10-10 10:14:36.990 ComputerPlayer 2251799813685247
+2022-10-10 10:14:36.990 ComputerPlayer lower
+2022-10-10 10:14:36.991 simulation Guess number ?
+2022-10-10 10:14:36.991 ComputerPlayer 1125899906842623
+2022-10-10 10:14:36.992 ComputerPlayer lower
+2022-10-10 10:14:36.992 simulation Guess number ?
+2022-10-10 10:14:36.993 ComputerPlayer 562949953421311
+2022-10-10 10:14:36.994 ComputerPlayer lower
+2022-10-10 10:14:36.994 simulation Guess number ?
+2022-10-10 10:14:36.995 ComputerPlayer 281474976710655
+2022-10-10 10:14:36.996 ComputerPlayer lower
+2022-10-10 10:14:36.996 simulation Guess number ?
+2022-10-10 10:14:36.997 ComputerPlayer 140737488355327
+2022-10-10 10:14:36.998 ComputerPlayer lower
+2022-10-10 10:14:36.999 simulation Guess number ?
+2022-10-10 10:14:37.001 ComputerPlayer 70368744177663
+2022-10-10 10:14:37.002 ComputerPlayer lower
+2022-10-10 10:14:37.002 simulation Guess number ?
+2022-10-10 10:14:37.003 ComputerPlayer 35184372088831
+2022-10-10 10:14:37.003 ComputerPlayer lower
+2022-10-10 10:14:37.004 simulation Guess number ?
+2022-10-10 10:14:37.005 ComputerPlayer 17592186044415
+2022-10-10 10:14:37.005 ComputerPlayer lower
+2022-10-10 10:14:37.006 simulation Guess number ?
+2022-10-10 10:14:37.006 ComputerPlayer 8796093022207
+2022-10-10 10:14:37.007 ComputerPlayer lower
+2022-10-10 10:14:37.007 simulation Guess number ?
+2022-10-10 10:14:37.008 ComputerPlayer 4398046511103
+2022-10-10 10:14:37.008 ComputerPlayer lower
+2022-10-10 10:14:37.009 simulation Guess number ?
+2022-10-10 10:14:37.009 ComputerPlayer 2199023255551
+2022-10-10 10:14:37.010 ComputerPlayer lower
+2022-10-10 10:14:37.010 simulation Guess number ?
+2022-10-10 10:14:37.011 ComputerPlayer 1099511627775
+2022-10-10 10:14:37.011 ComputerPlayer lower
+2022-10-10 10:14:37.012 simulation Guess number ?
+2022-10-10 10:14:37.012 ComputerPlayer 549755813887
+2022-10-10 10:14:37.013 ComputerPlayer lower
+2022-10-10 10:14:37.013 simulation Guess number ?
+2022-10-10 10:14:37.014 ComputerPlayer 274877906943
+2022-10-10 10:14:37.015 ComputerPlayer lower
+2022-10-10 10:14:37.015 simulation Guess number ?
+2022-10-10 10:14:37.016 ComputerPlayer 137438953471
+2022-10-10 10:14:37.017 ComputerPlayer lower
+2022-10-10 10:14:37.018 simulation Guess number ?
+2022-10-10 10:14:37.018 ComputerPlayer 68719476735
+2022-10-10 10:14:37.019 ComputerPlayer lower
+2022-10-10 10:14:37.019 simulation Guess number ?
+2022-10-10 10:14:37.020 ComputerPlayer 34359738367
+2022-10-10 10:14:37.020 ComputerPlayer lower
+2022-10-10 10:14:37.021 simulation Guess number ?
+2022-10-10 10:14:37.022 ComputerPlayer 17179869183
+2022-10-10 10:14:37.022 ComputerPlayer lower
+2022-10-10 10:14:37.023 simulation Guess number ?
+2022-10-10 10:14:37.023 ComputerPlayer 8589934591
+2022-10-10 10:14:37.024 ComputerPlayer lower
+2022-10-10 10:14:37.024 simulation Guess number ?
+2022-10-10 10:14:37.025 ComputerPlayer 4294967295
+2022-10-10 10:14:37.026 ComputerPlayer lower
+2022-10-10 10:14:37.026 simulation Guess number ?
+2022-10-10 10:14:37.027 ComputerPlayer 2147483647
+2022-10-10 10:14:37.028 ComputerPlayer lower
+2022-10-10 10:14:37.028 simulation Guess number ?
+2022-10-10 10:14:37.029 ComputerPlayer 1073741823
+2022-10-10 10:14:37.029 ComputerPlayer lower
+2022-10-10 10:14:37.030 simulation Guess number ?
+2022-10-10 10:14:37.031 ComputerPlayer 536870911
+2022-10-10 10:14:37.031 ComputerPlayer lower
+2022-10-10 10:14:37.032 simulation Guess number ?
+2022-10-10 10:14:37.033 ComputerPlayer 268435455
+2022-10-10 10:14:37.033 ComputerPlayer lower
+2022-10-10 10:14:37.034 simulation Guess number ?
+2022-10-10 10:14:37.035 ComputerPlayer 134217727
+2022-10-10 10:14:37.035 ComputerPlayer lower
+2022-10-10 10:14:37.036 simulation Guess number ?
+2022-10-10 10:14:37.036 ComputerPlayer 67108863
+2022-10-10 10:14:37.037 ComputerPlayer lower
+2022-10-10 10:14:37.038 simulation Guess number ?
+2022-10-10 10:14:37.038 ComputerPlayer 33554431
+2022-10-10 10:14:37.038 ComputerPlayer lower
+2022-10-10 10:14:37.039 simulation Guess number ?
+2022-10-10 10:14:37.040 ComputerPlayer 16777215
+2022-10-10 10:14:37.040 ComputerPlayer lower
+2022-10-10 10:14:37.041 simulation Guess number ?
+2022-10-10 10:14:37.041 ComputerPlayer 8388607
+2022-10-10 10:14:37.042 ComputerPlayer lower
+2022-10-10 10:14:37.042 simulation Guess number ?
+2022-10-10 10:14:37.043 ComputerPlayer 4194303
+2022-10-10 10:14:37.043 ComputerPlayer lower
+2022-10-10 10:14:37.044 simulation Guess number ?
+2022-10-10 10:14:37.045 ComputerPlayer 2097151
+2022-10-10 10:14:37.045 ComputerPlayer lower
+2022-10-10 10:14:37.046 simulation Guess number ?
+2022-10-10 10:14:37.046 ComputerPlayer 1048575
+2022-10-10 10:14:37.047 ComputerPlayer lower
+2022-10-10 10:14:37.047 simulation Guess number ?
+2022-10-10 10:14:37.047 ComputerPlayer 524287
+2022-10-10 10:14:37.048 ComputerPlayer lower
+2022-10-10 10:14:37.048 simulation Guess number ?
+2022-10-10 10:14:37.049 ComputerPlayer 262143
+2022-10-10 10:14:37.049 ComputerPlayer lower
+2022-10-10 10:14:37.050 simulation Guess number ?
+2022-10-10 10:14:37.050 ComputerPlayer 131071
+2022-10-10 10:14:37.051 ComputerPlayer lower
+2022-10-10 10:14:37.051 simulation Guess number ?
+2022-10-10 10:14:37.052 ComputerPlayer 65535
+2022-10-10 10:14:37.052 ComputerPlayer greater
+2022-10-10 10:14:37.053 simulation Guess number ?
+2022-10-10 10:14:37.053 ComputerPlayer 98303
+2022-10-10 10:14:37.054 ComputerPlayer greater
+2022-10-10 10:14:37.055 simulation Guess number ?
+2022-10-10 10:14:37.055 ComputerPlayer 114687
+2022-10-10 10:14:37.056 ComputerPlayer lower
+2022-10-10 10:14:37.056 simulation Guess number ?
+2022-10-10 10:14:37.057 ComputerPlayer 106495
+2022-10-10 10:14:37.057 ComputerPlayer lower
+2022-10-10 10:14:37.058 simulation Guess number ?
+2022-10-10 10:14:37.059 ComputerPlayer 102399
+2022-10-10 10:14:37.059 ComputerPlayer lower
+2022-10-10 10:14:37.060 simulation Guess number ?
+2022-10-10 10:14:37.060 ComputerPlayer 100351
+2022-10-10 10:14:37.061 ComputerPlayer lower
+2022-10-10 10:14:37.061 simulation Guess number ?
+2022-10-10 10:14:37.062 ComputerPlayer 99327
+2022-10-10 10:14:37.062 ComputerPlayer greater
+2022-10-10 10:14:37.063 simulation Guess number ?
+2022-10-10 10:14:37.064 ComputerPlayer 99839
+2022-10-10 10:14:37.064 ComputerPlayer greater
+2022-10-10 10:14:37.065 simulation Guess number ?
+2022-10-10 10:14:37.066 ComputerPlayer 100095
+2022-10-10 10:14:37.067 ComputerPlayer lower
+2022-10-10 10:14:37.067 simulation Guess number ?
+2022-10-10 10:14:37.068 ComputerPlayer 99967
+2022-10-10 10:14:37.069 ComputerPlayer greater
+2022-10-10 10:14:37.070 simulation Guess number ?
+2022-10-10 10:14:37.071 ComputerPlayer 100031
+2022-10-10 10:14:37.073 ComputerPlayer lower
+2022-10-10 10:14:37.074 simulation Guess number ?
+2022-10-10 10:14:37.075 ComputerPlayer 99999
+2022-10-10 10:14:37.076 ComputerPlayer greater
+2022-10-10 10:14:37.077 simulation Guess number ?
+2022-10-10 10:14:37.078 ComputerPlayer 100015
+2022-10-10 10:14:37.079 ComputerPlayer lower
+2022-10-10 10:14:37.080 simulation Guess number ?
+2022-10-10 10:14:37.081 ComputerPlayer 100007
+2022-10-10 10:14:37.082 ComputerPlayer lower
+2022-10-10 10:14:37.085 simulation Guess number ?
+2022-10-10 10:14:37.086 ComputerPlayer 100003
+2022-10-10 10:14:37.086 ComputerPlayer lower
+2022-10-10 10:14:37.087 simulation Guess number ?
+2022-10-10 10:14:37.088 ComputerPlayer 100001
+2022-10-10 10:14:37.088 ComputerPlayer lower
+2022-10-10 10:14:37.089 simulation Guess number ?
+2022-10-10 10:14:37.090 ComputerPlayer 100000
+2022-10-10 10:14:37.090 simulation You found the number
+2022-10-10 10:14:37.126 simulation 00:00.193
