@@ -29,7 +29,6 @@ public class Simulation {
         logger.log("Guess number ?");
         long userInput = player.askNextGuess();
         if(userInput==this.numberToGuess){
-            logger.log("You found the number");
             return true;
         }
         else{
@@ -47,7 +46,10 @@ public class Simulation {
             i++;
         }
         String originalFormat = new SimpleDateFormat("mm:ss.SSS").format(System.currentTimeMillis()-startTime);
-        if(i==maxIteration){
+        if(i<maxIteration){
+            logger.log("You found gagné done fin won bravo end win the number en "+i);
+        }
+        else{
             logger.log("You did not found the number");
         }
         logger.log(originalFormat);
