@@ -7,8 +7,8 @@ public class ComputerPlayer implements Player{
     private long max;
 
     public ComputerPlayer(){
-        min=0;
-        max=100;
+        min=Long.MIN_VALUE;
+        max=Long.MAX_VALUE;
     }
 
     @Override
